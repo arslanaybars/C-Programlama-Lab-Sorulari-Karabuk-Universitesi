@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425437080 source:c:\users\aybars\desktop\lab-sorularý-c-programlama\lab2soru3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
