@@ -1,0 +1,1 @@
+Hafızadan n adet integer sayı için yer ayıran ve bunlara rastgele sayılar atayan programı yazınız. (n sayısı kalvyeden girilecek).

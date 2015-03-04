@@ -1,0 +1,1 @@
+Ýsim, adres, telefon ve borç verilerinden oluþan bir struct yapýsýný oluþturun. Sonra bu yapý için n elemanlý bir dizi oluþturun. Oluþturduðunuz dizinin içine klavyeden verileri girin. Girilen verileri ekrana yazdýrmak için son bir fonksiyon yazýn.

@@ -1,0 +1,1 @@
+Klavyeden 0 (sıfır) girilene kadar girilen integer sayıları okuyan ve bu sayıları ilk sayıdan başlayarak ekrana yazdıran programı yazınız.
